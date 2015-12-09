@@ -1,5 +1,5 @@
+[![Stories in Ready](https://badge.waffle.io/sethbergman/ghost-blog.png?label=ready&title=Ready)](https://waffle.io/sethbergman/ghost-blog)
 <a href="https://github.com/TryGhost/Ghost"><img src="https://cloud.githubusercontent.com/assets/120485/6622822/c4c639fe-c8e7-11e4-9e64-5bec06c8b4c3.png" alt="Ghost" /></a>
-<a href="https://travis-ci.org/TryGhost/Ghost"><img align="right" src="https://travis-ci.org/TryGhost/Ghost.svg?branch=master" alt="Build status" /></a>
 
 ![Ghost Screenshot](https://cloud.githubusercontent.com/assets/120485/6626466/6dae46b2-c8ff-11e4-8c7c-8dd63b215f7b.jpg)
 
@@ -19,6 +19,10 @@ The project is maintained by a non-profit organisation called the **Ghost Founda
 
 
 # Quick Start Install
+
+[![Join the chat at https://gitter.im/sethbergman/ghost-blog](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/sethbergman/ghost-blog?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+[![Join the chat at https://gitter.im/sethbergman/ghost-blog](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/sethbergman/ghost-blog?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Make sure you've installed Node.js - We recommend the latest **Node v0.10.x** release.
 
